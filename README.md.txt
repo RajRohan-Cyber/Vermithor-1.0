@@ -1,4 +1,4 @@
-# Vermithor 1.0
+Vermithor 1.0
 
 Vermithor 1.0 is a Python-based desktop voice assistant project.
 
@@ -39,7 +39,6 @@ Vermithor-1.0/
     ├── time_tools.py
     ├── voice.py
     └── wakeword.py
-```
 
 ## About
 
@@ -48,3 +47,4 @@ Vermithor 1.0 was an early version of my personal voice assistant project. The p
 ## Status
 
 Early development / learning project.
+
