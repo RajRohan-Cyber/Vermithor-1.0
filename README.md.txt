@@ -24,7 +24,6 @@ This was an early version of the project, built to experiment with microphone in
 
 ## Project Structure
 
-```text
 Vermithor-1.0/
 ├── data/
 ├── main.py
